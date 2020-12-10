@@ -21,7 +21,7 @@
 title: Antonio Šušnja - blog
 email: antoniosusnja20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dobrodošli!
+  Dobrodošli! Moje ime je Antonio Šušnja i student sam 1. godine Informacijskih Tehnologija na Sveučilištu u Zadru. 
 baseurl: "/SITblog" # the subpath of your site, e.g. /blog
 url: "https://antoniosusnja.github.io/SITblog/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AntonioSusnja
