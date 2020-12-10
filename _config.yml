@@ -23,7 +23,7 @@ email: antoniosusnja20@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dobrodošli!
 baseurl: "/SITblog" # the subpath of your site, e.g. /blog
-url: "https://github.com/AntonioSusnja.io/SITblog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://antoniosusnja.github.io/SITblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Notwitter
 github_username:  AntonioSusnja
 
